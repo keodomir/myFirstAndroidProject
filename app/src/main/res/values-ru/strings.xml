@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Найди лушую машину</string>
+    <string name="hello_text">Я помогу тебе найти лучшую машину и сервис</string>
+    <string name="hello_button_test">поехали</string>
+    <string name="hello_dig_text">Твоя лучшая машина</string>
+</resources>
